@@ -1,8 +1,7 @@
 body {
-  height: 100%;
-	margin: 0;
+  	font-family: helvetica;
 	text-align: center;
-	width: 100%;
+	background: silver;
 }
 
 h1 {
