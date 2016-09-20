@@ -13,41 +13,42 @@ h2 {
  font-size: 32px;
  text-align: left;
  font-weight: normal;
- font-style: italic;
+ font-style: italic, bold;
 }
 h3 {
  font-family: "Palatino Linotype", Palatino, serif;
  font-size: 32px;
  text-align: left;
  font-weight: normal;
- font-style: italic;
+ font-style: italic, bold;
 }
 h4 {
  font-family: "Palatino Linotype", Palatino, serif;
  font-size: 32px;
  text-align: left;
  font-weight: normal;
- font-style: italic;
+ font-style: italic, bold;
 }
 h5 {
  font-family: "Palatino Linotype", Palatino, serif;
  font-size: 32px;
  text-align: left;
  font-weight: normal;
+ font-style: italic, bold;
 }
 h6 {
  font-family: "Palatino Linotype", Palatino, serif;
  font-size: 32px;
  text-align: left;
  font-weight: normal;
- font-style: italic;
+ font-style: italic, bold;
 }
 h7 {
  font-family: "Palatino Linotype", Palatino, serif;
  font-size: 32px;
  text-align: left;
  font-weight: normal;
- font-style: italic;
+ font-style: italic, bold;
 }
 
 
