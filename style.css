@@ -13,6 +13,11 @@ header h1 {
   margin: 0;
 }
 
+header h2 {
+  font-size: 78px;
+  font-weight: normal;
+}
+
 header nav {
   display: flex;
   justify-content: flex-end;
