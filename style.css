@@ -20,7 +20,7 @@ header nav {
 
 header p {
   font-family: 'Lato', sans-serif;
-  font-size: 10px;
+  font-size: 20px;
   padding: 0 20px;
   margin: 0;
 }
@@ -28,7 +28,7 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/jumbotron.jpg');
+  background-image: url('https://www.facebook.com/photo.php?fbid=10210591890531083&l=adabd872c7');
   background-size: cover;
   color: #ffffff;
   height: 500px;
