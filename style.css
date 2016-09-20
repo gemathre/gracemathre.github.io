@@ -8,6 +8,11 @@ body {
  font-size: 50px;
  text-align: center;
 }
+p {
+  border: 1px solid #000;
+  text-align: left;
+  padding: 30px;
+}
 
 
 
