@@ -1,54 +1,15 @@
-.page-title {
+body {
+ font-family: 'Lato', sans-serif;
  font-size: 50px;
  text-align: center;
 }
 p {
+  font-family: 'Lato', sans-serif;
   font-size: 20px;
   border: 1px solid #000;
   text-align: left;
   padding: 30px;
 }
-h2 {
- font-family: "Palatino Linotype", Palatino, serif;
- font-size: 32px;
- text-align: left;
- font-weight: normal;
- font-style: italic;
-}
-h3 {
- font-family: "Palatino Linotype", Palatino, serif;
- font-size: 32px;
- text-align: left;
- font-weight: normal;
- font-style: italic;
-}
-h4 {
- font-family: "Palatino Linotype", Palatino, serif;
- font-size: 32px;
- text-align: left;
- font-weight: normal;
- font-style: italic;
-}
-h5 {
- font-family: "Palatino Linotype", Palatino, serif;
- font-size: 32px;
- text-align: left;
- font-weight: normal;
- font-style: italic;
-}
-h6 {
- font-family: "Palatino Linotype", Palatino, serif;
- font-size: 32px;
- text-align: left;
- font-weight: normal;
- font-style: italic;
-}
-h7 {
- font-family: "Palatino Linotype", Palatino, serif;
- font-size: 32px;
- text-align: left;
- font-weight: normal;
- font-style: italic;
-}
+
 
 
