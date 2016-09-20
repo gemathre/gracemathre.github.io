@@ -38,5 +38,6 @@ header p {
 .jumbotron h2 {
   font-size: 78px;
   font-weight: 700;
+  margin: 0;
 }
 
