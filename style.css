@@ -13,11 +13,6 @@ header h1 {
   margin: 0;
 }
 
-header h2 {
-  font-size: 78px;
-  font-weight: 700;
-}
-
 header nav {
   display: flex;
   justify-content: flex-end;
@@ -40,4 +35,8 @@ header p {
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
+.jumbotron h2 {
+  font-size: 78px;
+  font-weight: 700;
+}
 
