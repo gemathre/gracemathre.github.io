@@ -42,7 +42,9 @@ header p {
   color: #2E2E2E;
 }
 
-.margin-left{
-    margin-left: 80px !important;
+.jumbotron p {
+ font-size: 20px;
+ color: #2E2E2E;
 }
+
 
