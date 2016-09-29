@@ -43,9 +43,10 @@ header p {
 }
 
 section .row h1 {
-font-size: 30px;
-color: #2E2E2E;
-text-align: left;
+ font-size: 30px;
+ color: #2E2E2E;
+ text-align: left;
+ font-style: bold;
 }
 
 section .row p {
