@@ -53,13 +53,13 @@ section .row h1 {
  font-style: bold;
 }
 
-section .row p {
+section .row h2 {
  font-size: 20px;
  color: #2E2E2E;
  text-align: left;
 }
 
-section .row p2 {
+section .row p {
  font-size: 15px;
  color: #2E2E2E;
  text-align: left;
