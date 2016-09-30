@@ -43,6 +43,7 @@ section .row h3 {
   font-size: 20px;
   color: #C961AE !important;
   text-align: left;
+  border: 1px solid #000;
 }
 
 section .row h4 {
