@@ -58,7 +58,7 @@ section .row h1 {
 section .row h2 {
  font-size: 20px;
  color: #2E2E2E;
- text-align: left;
+ text-align: center;
 }
 
 section .row h3 {
