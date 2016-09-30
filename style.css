@@ -4,11 +4,10 @@
  text-align: center;
 }*/
 
-header {
+/*header {
   padding: 20px 0;
 }
-
-/* header nav {
+ header nav {
   display: flex;
   justify-content: flex-end;
 } */
@@ -21,6 +20,7 @@ header {
   color: #ffffff;
   height: 500px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
+  text-align: center;
 }
 
 .jumbotron h1 {
