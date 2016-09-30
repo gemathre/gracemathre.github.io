@@ -56,3 +56,9 @@ section .row p {
  text-align: left;
 }
 
+section .row h3 {
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  color: #C961AE !important;
+  text-align: left;
+}
