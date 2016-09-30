@@ -24,16 +24,17 @@
 }
 
 .jumbotron h1 {
-  font-weight: 700;
+  font-weight: 500;
   font-size: 78px;
   margin: 0;
   color: #2E2E2E;
 }
 
 .jumbotron h2 {
-  font-size: 25px;
+  font-size: 18px;
   color: #2E2E2E;
   text-align: center;
+  margin: 0;
 }
 
 .jumbotron h3 {
