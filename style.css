@@ -27,7 +27,6 @@
   font-weight: 700;
   font-size: 78px;
   margin: 0;
-  text-align: center
   color: #2E2E2E;
 }
 
@@ -52,7 +51,7 @@
 section .row h1 {
  font-size: 30px;
  color: #2E2E2E;
- text-align: left;
+ text-align: center;
  font-style: bold;
 }
 
