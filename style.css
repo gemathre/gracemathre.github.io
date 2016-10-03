@@ -59,12 +59,13 @@ section .row p {
  margin: 20px !important;
 }
 
-/*section .row p2 {
+section .row p2 {
  font-size: 15px;
  color: #2E2E2E !important;
  text-align: left;
  margin: 20px;
-} */
+ border: 2px solid black; 
+} 
 
 section .row h3 {
   font-family: 'Lato', sans-serif;
