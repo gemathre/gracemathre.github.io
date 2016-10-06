@@ -57,6 +57,7 @@ section .row p {
  color: #2E2E2E !important;
  text-align: left;
  margin: 20px !important;
+ margin-bottom: 25px;
 }
 
 section .row p2 {
