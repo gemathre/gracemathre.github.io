@@ -18,6 +18,7 @@ body {
   height: 500px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
   text-align: center;
+  margin-bottom: 50px;
 }
 
 .jumbotron h1 {
