@@ -63,7 +63,7 @@ section .row p2 {
  font-size: 15px;
  color: #2E2E2E !important;
  text-align: left;
- margin-bottom: 25px !important;
+ margin: 25px !important;
 } 
 
 section .row h3 {
