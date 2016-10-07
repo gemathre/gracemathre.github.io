@@ -38,6 +38,10 @@ body {
   margin: 1px;
 }
 
+section .row {
+background-color: #E7E3E3;
+}
+
 section .row h3 {
   font-family: 'Lato', sans-serif !important;
   font-size: 20px;
